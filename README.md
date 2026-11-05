@@ -65,7 +65,7 @@ On my Twitch channel, **AnnaSasDev**, I do a lot of live coding:
 
 My chat acts as my rubber ducky, helping me think through problems and keep moving forward.
 
-🔗 [Watch on Twitch](https://www.twitch.tv/annasasdev)
+🔗 [Watch on Twitch](https://www.twitch.tv/scarletbytes)
 
 </td>
 </tr>
